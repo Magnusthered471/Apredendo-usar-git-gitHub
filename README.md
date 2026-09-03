@@ -20,3 +20,4 @@
 voce sabia que no C print se escreve como `Printf`
 
 oi amigo 🖖
+> Lovai a Deus no seu santoario
